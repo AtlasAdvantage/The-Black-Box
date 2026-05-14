@@ -1,9 +1,10 @@
 title: "The Black Box"
 description: "Atlas Exchange — Editorial Intelligence"
-url: "https://atlasadvantage.github.io"
-baseurl: "/The-Black-Box"
+url: "https://blog.success.justgoatlas.com"
+baseurl: ""
 
 logo: "/assets/images/favicon.png"
+favicon: "/favicon.png"
 masthead_title: "The Black Box"
 
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
@@ -24,11 +25,11 @@ author:
   bio: "Writer, listener and navigator."
   location: "United States Eastern"
   links:
-    - label: "dion@justgoatlas.com"
+    - label: "email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:"
+      url: "mailto:"dion@justgoatlas.com"
 
-# Defaults so author ALWAYS shows
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -39,9 +40,7 @@ defaults:
       read_time: true
       comments: false
       share: false
-      
-favicon: "/favicon.png"
-
+    
   - scope:
       path: ""
       type: "pages"
