@@ -6,7 +6,7 @@ baseurl: "/The-Black-Box"
 logo: "/assets/images/favicon.png"
 masthead_title: "The Black Box"
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin: "dark"
 
 markdown: kramdown
