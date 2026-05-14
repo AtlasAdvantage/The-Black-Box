@@ -1,14 +1,61 @@
 title: "The Black Box"
 description: "Atlas Exchange — Editorial Intelligence"
+url: "https://atlasadvantage.github.io"
+baseurl: "/The-Black-Box"
+
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+
+markdown: kramdown
+highlighter: rouge
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-markdown: kramdown
-highlighter: rouge
+# Author Profile
+author:
+  name: "Dion Gamble"
+  avatar: "/assets/images/headshot2.jpg"
+  bio: "Writer, listener and navigator."
+  location: "United States Eastern"
+  links:
+    - label: "dion@justgoatlas.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:"
 
-# Minimal Mistakes settings
-minimal_mistakes_skin: "dark"
+# Defaults so author ALWAYS shows
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      author_profile: true
+      layout: single
+      read_time: true
+      comments: false
+      share: false
 
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      author_profile: true
+
+# Permalinks
+permalink: /:categories/:title/
+
+# Collections (optional but clean)
+collections:
+  posts:
+    output: true
+
+# Build settings
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
