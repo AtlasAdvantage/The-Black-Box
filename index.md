@@ -6,7 +6,7 @@ show_excerpts: true
 header:
   overlay_color: "#000000"
   overlay_filter: "0.3"
-  overlay_image: "/assets/images/copilot_20260512_054625.png"
+  overlay_image: "/assets/images/blackbox.jpg"
 ---
 
 WELCOME TO THE BLACK BOX | DION’S UNFILTERED CAREER BLOG.
