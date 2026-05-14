@@ -3,10 +3,12 @@ layout: single
 title: "Spirit Airlines: The Black Box"
 excerpt: "A professional obituary for Spirit Airlines — and what it reveals about hiring, HR, and collapse."
 author_profile: true
+read_time: true
+related: true
 header:
   overlay_color: "#000000"
   overlay_filter: "0.3"
-  overlay_image: "/assets/images/arrivalsanddepartures .jpg"
+  overlay_image: "/assets/images/arrivalsanddepartures.jpg"
 ---
 # THE SPIRIT AIRLINES BLACKBOX: A PROFESSIONAL OBITUARY
 
