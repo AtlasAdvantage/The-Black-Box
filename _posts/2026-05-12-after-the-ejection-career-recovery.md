@@ -2,11 +2,11 @@
 layout: single
 title: "After the Ejection: A Modern Guide to Fast, Intentional Career Recovery"
 excerpt: "A data-backed guide to navigating job loss with clarity, confidence, and altitude."
-author_profile: false
+author_profile: true
 header:
   overlay_color: "#000000"
   overlay_filter: "0.3"
-  overlay_image: ""
+  overlay_image: "/assets/images/ejection.jpg"
 ---
 
 Losing a job today isn’t a fall — it’s an ejection. Sudden. Loud. Disorienting. And according to LinkedIn Workforce Reports, over 70% of layoffs in the last two years were due to restructuring, not performance.
