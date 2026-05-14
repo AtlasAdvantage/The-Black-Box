@@ -3,7 +3,7 @@ description: "Atlas Exchange — Editorial Intelligence"
 url: "https://atlasadvantage.github.io"
 baseurl: "/The-Black-Box"
 
-logo: "/assets/images/atlasexchange.jpg"
+logo: "/assets/images/atlaslogo.ico"
 masthead_title: "The Black Box"
 
 theme: minimal-mistakes-jekyll
