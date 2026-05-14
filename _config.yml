@@ -40,7 +40,7 @@ defaults:
       comments: false
       share: false
       
-favicon: "/favicon.ico"
+favicon: "/favicon.png"
 
   - scope:
       path: ""
