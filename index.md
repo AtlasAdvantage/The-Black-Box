@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "The Black Box"
-author_profile: false
+author_profile: true
 show_excerpts: true
 header:
   overlay_color: "#000000"
