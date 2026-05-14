@@ -3,6 +3,9 @@ description: "Atlas Exchange — Editorial Intelligence"
 url: "https://atlasadvantage.github.io"
 baseurl: "/The-Black-Box"
 
+logo: "/assets/images/atlasexchange.jpg"
+masthead_title: "The Black Box"
+
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 
@@ -59,3 +62,4 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+skip_links: false
