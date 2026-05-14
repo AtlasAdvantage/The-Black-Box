@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000000"
   overlay_filter: "0.3"
-  overlay_image: "/assets/images/Copilot_20260512_054625.png"
+  overlay_image: "/assets/images/arrivalsanddepartures .jpg"
 ---
 # THE SPIRIT AIRLINES BLACKBOX: A PROFESSIONAL OBITUARY
 
