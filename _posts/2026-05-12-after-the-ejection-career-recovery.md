@@ -4,8 +4,6 @@ title: "After the Ejection: A Modern Guide to Fast, Intentional Career Recovery"
 excerpt: "A data-backed guide to navigating job loss with clarity, confidence, and altitude."
 author_profile: true
 read_time: true
-comments: false
-share: false
 related: true
 header:
   overlay_color: "#000000"
