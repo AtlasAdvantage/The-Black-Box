@@ -4,7 +4,7 @@ url: "https://blog.success.justgoatlas.com"
 baseurl: ""
 
 logo: "/assets/images/atlasexchange.jpg"
-favicon: "/favicon.png"
+favicon: "/favicon-v2.png"
 masthead_title: "The Black Box"
 
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
