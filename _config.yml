@@ -69,3 +69,12 @@ skip_links: false
 paginate: 5
 paginate_path: "/page:num/"
 
+
+
+
+title: "The Black Box"
+description: "Dion’s unfiltered career blog about hiring, candidates, ATS truth, and what really happens inside companies."
+url: "https://blog.success.justgoatlas.com"
+
+# Open Graph
+og_image: "/assets/images/blackbox.jpg"
